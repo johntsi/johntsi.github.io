@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masked Token Generative Model | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/masked-token-generative-model/</link>
+      <atom:link href="https://example.com/tags/masked-token-generative-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masked Token Generative Model</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Masked Token Generative Model</title>
+      <link>https://example.com/tags/masked-token-generative-model/</link>
+    </image>
+    
+    <item>
+      <title>Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity</title>
+      <link>https://example.com/publication/conference-paper/maskvat/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/maskvat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

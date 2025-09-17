@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio-Visual Representation Learning | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/audio-visual-representation-learning/</link>
+      <atom:link href="https://example.com/tags/audio-visual-representation-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Audio-Visual Representation Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Audio-Visual Representation Learning</title>
+      <link>https://example.com/tags/audio-visual-representation-learning/</link>
+    </image>
+    
+    <item>
+      <title>Sequential Contrastive Audio-Visual Learning</title>
+      <link>https://example.com/publication/conference-paper/scav/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/scav/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

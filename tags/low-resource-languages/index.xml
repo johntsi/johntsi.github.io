@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-Resource Languages | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/low-resource-languages/</link>
+      <atom:link href="https://example.com/tags/low-resource-languages/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-Resource Languages</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Low-Resource Languages</title>
+      <link>https://example.com/tags/low-resource-languages/</link>
+    </image>
+    
+    <item>
+      <title>Improving Language and Modality Transfer in Translation by Character-level Modeling</title>
+      <link>https://example.com/publication/conference-paper/charsonar/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/charsonar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations</title>
+      <link>https://example.com/publication/conference-paper/segaugment/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/segaugment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

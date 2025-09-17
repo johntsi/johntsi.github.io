@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explainable AI | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/explainable-ai/</link>
+      <atom:link href="https://example.com/tags/explainable-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Explainable AI</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <title>Explainable AI</title>
+      <link>https://example.com/tags/explainable-ai/</link>
+    </image>
+    
+    <item>
+      <title>Explaining How Transformers Use Context to Build Predictions</title>
+      <link>https://example.com/publication/conference-paper/alti/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/alti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
