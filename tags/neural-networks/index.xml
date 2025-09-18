@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Networks | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/neural-networks/</link>
-      <atom:link href="https://example.com/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ytsiamas.com/tags/neural-networks/</link>
+      <atom:link href="https://ytsiamas.com/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Neural Networks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ytsiamas.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Neural Networks</title>
-      <link>https://example.com/tags/neural-networks/</link>
+      <link>https://ytsiamas.com/tags/neural-networks/</link>
     </image>
     
     <item>
       <title>An ensemble of LSTM neural networks for high-frequency stock market classification</title>
-      <link>https://example.com/publication/journal-article/ensemblelstm/</link>
+      <link>https://ytsiamas.com/publication/journal-article/ensemblelstm/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/ensemblelstm/</guid>
+      <guid>https://ytsiamas.com/publication/journal-article/ensemblelstm/</guid>
       <description></description>
     </item>
     

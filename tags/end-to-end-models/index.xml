@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>End-to-End Models | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/end-to-end-models/</link>
-      <atom:link href="https://example.com/tags/end-to-end-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ytsiamas.com/tags/end-to-end-models/</link>
+      <atom:link href="https://ytsiamas.com/tags/end-to-end-models/index.xml" rel="self" type="application/rss+xml" />
     <description>End-to-End Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ytsiamas.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>End-to-End Models</title>
-      <link>https://example.com/tags/end-to-end-models/</link>
+      <link>https://ytsiamas.com/tags/end-to-end-models/</link>
     </image>
     
     <item>
       <title>Pushing the Limits of Zero-shot End-to-End Speech Translation</title>
-      <link>https://example.com/publication/conference-paper/zeroswot/</link>
+      <link>https://ytsiamas.com/publication/conference-paper/zeroswot/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/zeroswot/</guid>
+      <guid>https://ytsiamas.com/publication/conference-paper/zeroswot/</guid>
       <description></description>
     </item>
     

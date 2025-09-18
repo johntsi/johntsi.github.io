@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural Machine Translation | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/neural-machine-translation/</link>
-      <atom:link href="https://example.com/tags/neural-machine-translation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ytsiamas.com/tags/neural-machine-translation/</link>
+      <atom:link href="https://ytsiamas.com/tags/neural-machine-translation/index.xml" rel="self" type="application/rss+xml" />
     <description>Neural Machine Translation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ytsiamas.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Neural Machine Translation</title>
-      <link>https://example.com/tags/neural-machine-translation/</link>
+      <link>https://ytsiamas.com/tags/neural-machine-translation/</link>
     </image>
     
     <item>
       <title>Explaining How Transformers Use Context to Build Predictions</title>
-      <link>https://example.com/publication/conference-paper/alti/</link>
+      <link>https://ytsiamas.com/publication/conference-paper/alti/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/alti/</guid>
+      <guid>https://ytsiamas.com/publication/conference-paper/alti/</guid>
       <description></description>
     </item>
     

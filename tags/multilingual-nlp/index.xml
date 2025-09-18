@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Multilingual NLP | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/multilingual-nlp/</link>
-      <atom:link href="https://example.com/tags/multilingual-nlp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ytsiamas.com/tags/multilingual-nlp/</link>
+      <atom:link href="https://ytsiamas.com/tags/multilingual-nlp/index.xml" rel="self" type="application/rss+xml" />
     <description>Multilingual NLP</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ytsiamas.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Multilingual NLP</title>
-      <link>https://example.com/tags/multilingual-nlp/</link>
+      <link>https://ytsiamas.com/tags/multilingual-nlp/</link>
     </image>
     
     <item>
       <title>BOUQUET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation</title>
-      <link>https://example.com/publication/preprint/bouquet/</link>
+      <link>https://ytsiamas.com/publication/preprint/bouquet/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/bouquet/</guid>
+      <guid>https://ytsiamas.com/publication/preprint/bouquet/</guid>
       <description></description>
     </item>
     

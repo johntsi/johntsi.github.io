@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Translation | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/machine-translation/</link>
-      <atom:link href="https://example.com/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ytsiamas.com/tags/machine-translation/</link>
+      <atom:link href="https://ytsiamas.com/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Translation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ytsiamas.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Machine Translation</title>
-      <link>https://example.com/tags/machine-translation/</link>
+      <link>https://ytsiamas.com/tags/machine-translation/</link>
     </image>
     
     <item>
       <title>Improving Language and Modality Transfer in Translation by Character-level Modeling</title>
-      <link>https://example.com/publication/conference-paper/charsonar/</link>
+      <link>https://ytsiamas.com/publication/conference-paper/charsonar/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/charsonar/</guid>
+      <guid>https://ytsiamas.com/publication/conference-paper/charsonar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BOUQUET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation</title>
-      <link>https://example.com/publication/preprint/bouquet/</link>
+      <link>https://ytsiamas.com/publication/preprint/bouquet/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/bouquet/</guid>
+      <guid>https://ytsiamas.com/publication/preprint/bouquet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The TALP-UPC Participation in WMT21 News Translation Task: an mBART-based NMT Approach</title>
-      <link>https://example.com/publication/conference-paper/wmt21/</link>
+      <link>https://ytsiamas.com/publication/conference-paper/wmt21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/wmt21/</guid>
+      <guid>https://ytsiamas.com/publication/conference-paper/wmt21/</guid>
       <description></description>
     </item>
     

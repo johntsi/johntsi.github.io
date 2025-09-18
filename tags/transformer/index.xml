@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transformer | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/transformer/</link>
-      <atom:link href="https://example.com/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ytsiamas.com/tags/transformer/</link>
+      <atom:link href="https://ytsiamas.com/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
     <description>Transformer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ytsiamas.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Transformer</title>
-      <link>https://example.com/tags/transformer/</link>
+      <link>https://ytsiamas.com/tags/transformer/</link>
     </image>
     
     <item>
       <title>Efficient Speech Translation with Dynamic Latent Perceivers</title>
-      <link>https://example.com/publication/conference-paper/perceiverst/</link>
+      <link>https://ytsiamas.com/publication/conference-paper/perceiverst/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/perceiverst/</guid>
+      <guid>https://ytsiamas.com/publication/conference-paper/perceiverst/</guid>
       <description></description>
     </item>
     

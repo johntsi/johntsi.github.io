@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audio Segmentation | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/audio-segmentation/</link>
-      <atom:link href="https://example.com/tags/audio-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ytsiamas.com/tags/audio-segmentation/</link>
+      <atom:link href="https://ytsiamas.com/tags/audio-segmentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Audio Segmentation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_982c5d63a71b2961.png</url>
+      <url>https://ytsiamas.com/media/icon_hu_982c5d63a71b2961.png</url>
       <title>Audio Segmentation</title>
-      <link>https://example.com/tags/audio-segmentation/</link>
+      <link>https://ytsiamas.com/tags/audio-segmentation/</link>
     </image>
     
     <item>
       <title>SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations</title>
-      <link>https://example.com/publication/conference-paper/segaugment/</link>
+      <link>https://ytsiamas.com/publication/conference-paper/segaugment/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/segaugment/</guid>
+      <guid>https://ytsiamas.com/publication/conference-paper/segaugment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SHAS: Approaching optimal Segmentation for End-to-End Speech Translation</title>
-      <link>https://example.com/publication/conference-paper/shas/</link>
+      <link>https://ytsiamas.com/publication/conference-paper/shas/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/shas/</guid>
+      <guid>https://ytsiamas.com/publication/conference-paper/shas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End Speech Translation with Pre-trained Models and Adapters: UPC at IWSLT 2021</title>
-      <link>https://example.com/publication/conference-paper/iwslt21/</link>
+      <link>https://ytsiamas.com/publication/conference-paper/iwslt21/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/iwslt21/</guid>
+      <guid>https://ytsiamas.com/publication/conference-paper/iwslt21/</guid>
       <description></description>
     </item>
     
