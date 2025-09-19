@@ -5,7 +5,7 @@
     <link>https://ytsiamas.com/tags/evaluation/</link>
       <atom:link href="https://ytsiamas.com/tags/evaluation/index.xml" rel="self" type="application/rss+xml" />
     <description>Evaluation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Thu, 06 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
       <title>Evaluation</title>
@@ -14,17 +14,17 @@
     
     <item>
       <title>BOUQUET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation</title>
-      <link>https://ytsiamas.com/publication/preprint/bouquet/</link>
+      <link>https://ytsiamas.com/publications/preprint/bouquet/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/preprint/bouquet/</guid>
+      <guid>https://ytsiamas.com/publications/preprint/bouquet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech Is More than Words: Do Speech-to-Text Translation Systems Leverage Prosody?</title>
-      <link>https://ytsiamas.com/publication/conference-paper/contraprost/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/contraprost/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/contraprost/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/contraprost/</guid>
       <description></description>
     </item>
     

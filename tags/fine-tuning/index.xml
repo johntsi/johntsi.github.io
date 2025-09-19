@@ -5,7 +5,7 @@
     <link>https://ytsiamas.com/tags/fine-tuning/</link>
       <atom:link href="https://ytsiamas.com/tags/fine-tuning/index.xml" rel="self" type="application/rss+xml" />
     <description>Fine-Tuning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
       <title>Fine-Tuning</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>The TALP-UPC Participation in WMT21 News Translation Task: an mBART-based NMT Approach</title>
-      <link>https://ytsiamas.com/publication/conference-paper/wmt21/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/wmt21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/wmt21/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/wmt21/</guid>
       <description></description>
     </item>
     

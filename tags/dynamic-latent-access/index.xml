@@ -5,7 +5,7 @@
     <link>https://ytsiamas.com/tags/dynamic-latent-access/</link>
       <atom:link href="https://ytsiamas.com/tags/dynamic-latent-access/index.xml" rel="self" type="application/rss+xml" />
     <description>Dynamic Latent Access</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
       <title>Dynamic Latent Access</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Efficient Speech Translation with Dynamic Latent Perceivers</title>
-      <link>https://ytsiamas.com/publication/conference-paper/perceiverst/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/perceiverst/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/perceiverst/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/perceiverst/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://ytsiamas.com/</link>
       <atom:link href="https://ytsiamas.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiannis (Ioannis) Tsiamas | AI Research Scientist</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
       <title>Yiannis (Ioannis) Tsiamas | AI Research Scientist</title>
@@ -14,122 +14,122 @@
     
     <item>
       <title>Improving Language and Modality Transfer in Translation by Character-level Modeling</title>
-      <link>https://ytsiamas.com/publication/conference-paper/charsonar/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/charsonar/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/charsonar/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/charsonar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequential Contrastive Audio-Visual Learning</title>
-      <link>https://ytsiamas.com/publication/conference-paper/scav/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/scav/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/scav/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/scav/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BOUQUET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation</title>
-      <link>https://ytsiamas.com/publication/preprint/bouquet/</link>
+      <link>https://ytsiamas.com/publications/preprint/bouquet/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/preprint/bouquet/</guid>
+      <guid>https://ytsiamas.com/publications/preprint/bouquet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity</title>
-      <link>https://ytsiamas.com/publication/conference-paper/maskvat/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/maskvat/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/maskvat/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/maskvat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech Is More than Words: Do Speech-to-Text Translation Systems Leverage Prosody?</title>
-      <link>https://ytsiamas.com/publication/conference-paper/contraprost/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/contraprost/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/contraprost/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/contraprost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pushing the Limits of Zero-shot End-to-End Speech Translation</title>
-      <link>https://ytsiamas.com/publication/conference-paper/zeroswot/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/zeroswot/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/zeroswot/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/zeroswot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SegAugment: Maximizing the Utility of Speech Translation Data with Segmentation-based Augmentations</title>
-      <link>https://ytsiamas.com/publication/conference-paper/segaugment/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/segaugment/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/segaugment/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/segaugment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explaining How Transformers Use Context to Build Predictions</title>
-      <link>https://ytsiamas.com/publication/conference-paper/alti/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/alti/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/alti/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/alti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech Translation with Foundation Models and Optimal Transport: UPC at IWSLT23</title>
-      <link>https://ytsiamas.com/publication/conference-paper/iwslt23/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/iwslt23/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/iwslt23/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/iwslt23/</guid>
       <description>&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Efficient Speech Translation with Dynamic Latent Perceivers</title>
-      <link>https://ytsiamas.com/publication/conference-paper/perceiverst/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/perceiverst/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/perceiverst/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/perceiverst/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SHAS: Approaching optimal Segmentation for End-to-End Speech Translation</title>
-      <link>https://ytsiamas.com/publication/conference-paper/shas/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/shas/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/shas/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/shas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pretrained Speech Encoders and Efficient Fine-tuning Methods for Speech Translation: UPC at IWSLT 2022</title>
-      <link>https://ytsiamas.com/publication/conference-paper/iwslt22/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/iwslt22/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/iwslt22/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/iwslt22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The TALP-UPC Participation in WMT21 News Translation Task: an mBART-based NMT Approach</title>
-      <link>https://ytsiamas.com/publication/conference-paper/wmt21/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/wmt21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/wmt21/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/wmt21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End Speech Translation with Pre-trained Models and Adapters: UPC at IWSLT 2021</title>
-      <link>https://ytsiamas.com/publication/conference-paper/iwslt21/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/iwslt21/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/iwslt21/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/iwslt21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An ensemble of LSTM neural networks for high-frequency stock market classification</title>
-      <link>https://ytsiamas.com/publication/journal-article/ensemblelstm/</link>
+      <link>https://ytsiamas.com/publications/journal-article/ensemblelstm/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/journal-article/ensemblelstm/</guid>
+      <guid>https://ytsiamas.com/publications/journal-article/ensemblelstm/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://ytsiamas.com/tags/pretrained-models/</link>
       <atom:link href="https://ytsiamas.com/tags/pretrained-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Pretrained Models</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
       <title>Pretrained Models</title>
@@ -14,25 +14,25 @@
     
     <item>
       <title>Pretrained Speech Encoders and Efficient Fine-tuning Methods for Speech Translation: UPC at IWSLT 2022</title>
-      <link>https://ytsiamas.com/publication/conference-paper/iwslt22/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/iwslt22/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/iwslt22/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/iwslt22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The TALP-UPC Participation in WMT21 News Translation Task: an mBART-based NMT Approach</title>
-      <link>https://ytsiamas.com/publication/conference-paper/wmt21/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/wmt21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/wmt21/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/wmt21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End Speech Translation with Pre-trained Models and Adapters: UPC at IWSLT 2021</title>
-      <link>https://ytsiamas.com/publication/conference-paper/iwslt21/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/iwslt21/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/iwslt21/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/iwslt21/</guid>
       <description></description>
     </item>
     

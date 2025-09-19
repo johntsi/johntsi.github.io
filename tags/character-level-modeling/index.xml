@@ -5,7 +5,7 @@
     <link>https://ytsiamas.com/tags/character-level-modeling/</link>
       <atom:link href="https://ytsiamas.com/tags/character-level-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>Character-Level Modeling</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
       <title>Character-Level Modeling</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Improving Language and Modality Transfer in Translation by Character-level Modeling</title>
-      <link>https://ytsiamas.com/publication/conference-paper/charsonar/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/charsonar/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/charsonar/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/charsonar/</guid>
       <description></description>
     </item>
     

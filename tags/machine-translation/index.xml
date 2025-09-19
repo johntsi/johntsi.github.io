@@ -5,7 +5,7 @@
     <link>https://ytsiamas.com/tags/machine-translation/</link>
       <atom:link href="https://ytsiamas.com/tags/machine-translation/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Translation</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
       <title>Machine Translation</title>
@@ -14,25 +14,25 @@
     
     <item>
       <title>Improving Language and Modality Transfer in Translation by Character-level Modeling</title>
-      <link>https://ytsiamas.com/publication/conference-paper/charsonar/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/charsonar/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/charsonar/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/charsonar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BOUQUET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation</title>
-      <link>https://ytsiamas.com/publication/preprint/bouquet/</link>
+      <link>https://ytsiamas.com/publications/preprint/bouquet/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/preprint/bouquet/</guid>
+      <guid>https://ytsiamas.com/publications/preprint/bouquet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The TALP-UPC Participation in WMT21 News Translation Task: an mBART-based NMT Approach</title>
-      <link>https://ytsiamas.com/publication/conference-paper/wmt21/</link>
+      <link>https://ytsiamas.com/publications/conference-paper/wmt21/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/conference-paper/wmt21/</guid>
+      <guid>https://ytsiamas.com/publications/conference-paper/wmt21/</guid>
       <description></description>
     </item>
     

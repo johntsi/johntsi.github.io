@@ -5,7 +5,7 @@
     <link>https://ytsiamas.com/tags/neural-networks/</link>
       <atom:link href="https://ytsiamas.com/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     <description>Neural Networks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
       <title>Neural Networks</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>An ensemble of LSTM neural networks for high-frequency stock market classification</title>
-      <link>https://ytsiamas.com/publication/journal-article/ensemblelstm/</link>
+      <link>https://ytsiamas.com/publications/journal-article/ensemblelstm/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publication/journal-article/ensemblelstm/</guid>
+      <guid>https://ytsiamas.com/publications/journal-article/ensemblelstm/</guid>
       <description></description>
     </item>
     
