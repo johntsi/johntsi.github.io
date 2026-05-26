@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentence Embeddings | Yiannis (Ioannis) Tsiamas | AI Research Scientist</title>
+    <link>https://ytsiamas.com/tags/sentence-embeddings/</link>
+      <atom:link href="https://ytsiamas.com/tags/sentence-embeddings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sentence Embeddings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2025 Yiannis (Ioannis) Tsiamas</copyright><lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png</url>
+      <title>Sentence Embeddings</title>
+      <link>https://ytsiamas.com/tags/sentence-embeddings/</link>
+    </image>
+    
+    <item>
+      <title>Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech</title>
+      <link>https://ytsiamas.com/publications/preprint/omnisonar/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ytsiamas.com/publications/preprint/omnisonar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Omnilingual MT: Machine Translation for 1,600 Languages</title>
+      <link>https://ytsiamas.com/publications/preprint/omt/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ytsiamas.com/publications/preprint/omt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech</title>
+      <link>https://ytsiamas.com/publications/preprint/omnisonar/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ytsiamas.com/publications/preprint/omnisonar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BOUQuET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation</title>
+      <link>https://ytsiamas.com/publications/conference-paper/bouquet/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://ytsiamas.com/publications/conference-paper/bouquet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving Language and Modality Transfer in Translation by Character-level Modeling</title>
       <link>https://ytsiamas.com/publications/conference-paper/charsonar/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
@@ -25,14 +49,6 @@
       <link>https://ytsiamas.com/publications/conference-paper/scav/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://ytsiamas.com/publications/conference-paper/scav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOUQUET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation</title>
-      <link>https://ytsiamas.com/publications/preprint/bouquet/</link>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://ytsiamas.com/publications/preprint/bouquet/</guid>
       <description></description>
     </item>
     
