@@ -63,7 +63,7 @@
   
     
       
-        <link rel="stylesheet" href="/css/main.9f52734350935bbe72c46c43b5a1d9cd067626be42617e58550bf2d0fd5b2151.css" integrity="sha256-n1JzQ1CTW75yxGxDtaHZzQZ2Jr5CYX5YVQvy0P1bIVE=" crossorigin="anonymous">
+        <link rel="stylesheet" href="/css/main.abb30e0e6ba10485d644069a14ff10be1072451abe93c35bd72632458dbf4867.css" integrity="sha256-q7MODmuhBIXWRAaaFP8QvhByRRq&#43;k8Nb1yYyRY2/SGc=" crossorigin="anonymous">
       
     
   
@@ -178,7 +178,6 @@
   
   
     
-    
   
   
 
@@ -187,7 +186,7 @@
     
     
   
-  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:card" content="summary_large_image" />
   
     <meta property="twitter:site" content="@JohnTsiamas" />
     <meta property="twitter:creator" content="@JohnTsiamas" />
@@ -195,8 +194,8 @@
   <meta property="og:site_name" content="Yiannis (Ioannis) Tsiamas | AI Research Scientist" />
   <meta property="og:url" content="https://ytsiamas.com/publications/preprint/omnisonar/" />
   <meta property="og:title" content="Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech | Yiannis (Ioannis) Tsiamas | AI Research Scientist" />
-  <meta property="og:description" content="We introduce OmniSONAR, a family of omnilingual cross-lingual and cross-modal sentence embedding models spanning 4,000&#43; language varieties and natively supporting text, speech, code, and mathematical expressions in a unified semantic space, achieving state-of-the-art performance from high-resource to extremely low-resource languages." /><meta property="og:image" content="https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png" />
-    <meta property="twitter:image" content="https://ytsiamas.com/media/icon_hu_1a01a2bd1ab4f592.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="We introduce OmniSONAR, a family of omnilingual cross-lingual and cross-modal sentence embedding models spanning 4,000&#43; language varieties and natively supporting text, speech, code, and mathematical expressions in a unified semantic space, achieving state-of-the-art performance from high-resource to extremely low-resource languages." /><meta property="og:image" content="https://ytsiamas.com/publications/preprint/omnisonar/featured.png" />
+    <meta property="twitter:image" content="https://ytsiamas.com/publications/preprint/omnisonar/featured.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -813,6 +812,9 @@
       <div class="mt-4 mb-16">
       <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Mar 17, 2026</span><span class="mx-1">·</span>
         
+          
+          <script>console.log('Author notes detected in single.html, Alpine.js should load');</script>
+        
 
         
         
@@ -831,7 +833,36 @@
             <div >João Maria Janeiro</div>
           </div>
           
-          
+          <span class="relative inline-block ml-1" x-data="{ tooltip: false }">
+                <button
+                  @mouseenter="tooltip = true"
+                  @mouseleave="tooltip = false"
+                  @click="tooltip = !tooltip"
+                  class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
+                  data-tooltip="Core contributor"
+                  aria-label="Core contributor"
+                  type="button"
+                >
+                  <svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+                  </svg>
+                </button>
+                <div
+                  x-show="tooltip"
+                  x-transition:enter="transition ease-out duration-200"
+                  x-transition:enter-start="opacity-0 transform scale-95"
+                  x-transition:enter-end="opacity-100 transform scale-100"
+                  x-transition:leave="transition ease-in duration-150"
+                  x-transition:leave-start="opacity-100 transform scale-100"
+                  x-transition:leave-end="opacity-0 transform scale-95"
+                  @click.away="tooltip = false"
+                  class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
+                  x-cloak
+                >
+                  Core contributor
+                  <div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"></div>
+                </div>
+              </span>
           
           <span class="mr-1">,</span>
           <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
@@ -839,7 +870,36 @@
             <div >Pere Lluís Huguet Cabot</div>
           </div>
           
-          
+          <span class="relative inline-block ml-1" x-data="{ tooltip: false }">
+                <button
+                  @mouseenter="tooltip = true"
+                  @mouseleave="tooltip = false"
+                  @click="tooltip = !tooltip"
+                  class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
+                  data-tooltip="Core contributor"
+                  aria-label="Core contributor"
+                  type="button"
+                >
+                  <svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+                  </svg>
+                </button>
+                <div
+                  x-show="tooltip"
+                  x-transition:enter="transition ease-out duration-200"
+                  x-transition:enter-start="opacity-0 transform scale-95"
+                  x-transition:enter-end="opacity-100 transform scale-100"
+                  x-transition:leave="transition ease-in duration-150"
+                  x-transition:leave-start="opacity-100 transform scale-100"
+                  x-transition:leave-end="opacity-0 transform scale-95"
+                  @click.away="tooltip = false"
+                  class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
+                  x-cloak
+                >
+                  Core contributor
+                  <div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"></div>
+                </div>
+              </span>
           
           <span class="mr-1">,</span>
           <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
@@ -847,7 +907,36 @@
             <div >Ioannis Tsiamas</div>
           </div>
           
-          
+          <span class="relative inline-block ml-1" x-data="{ tooltip: false }">
+                <button
+                  @mouseenter="tooltip = true"
+                  @mouseleave="tooltip = false"
+                  @click="tooltip = !tooltip"
+                  class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
+                  data-tooltip="Core contributor"
+                  aria-label="Core contributor"
+                  type="button"
+                >
+                  <svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+                  </svg>
+                </button>
+                <div
+                  x-show="tooltip"
+                  x-transition:enter="transition ease-out duration-200"
+                  x-transition:enter-start="opacity-0 transform scale-95"
+                  x-transition:enter-end="opacity-100 transform scale-100"
+                  x-transition:leave="transition ease-in duration-150"
+                  x-transition:leave-start="opacity-100 transform scale-100"
+                  x-transition:leave-end="opacity-0 transform scale-95"
+                  @click.away="tooltip = false"
+                  class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
+                  x-cloak
+                >
+                  Core contributor
+                  <div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"></div>
+                </div>
+              </span>
           
           <span class="mr-1">,</span>
           <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
@@ -855,7 +944,36 @@
             <div >Yen Meng</div>
           </div>
           
-          
+          <span class="relative inline-block ml-1" x-data="{ tooltip: false }">
+                <button
+                  @mouseenter="tooltip = true"
+                  @mouseleave="tooltip = false"
+                  @click="tooltip = !tooltip"
+                  class="author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help"
+                  data-tooltip="Core contributor"
+                  aria-label="Core contributor"
+                  type="button"
+                >
+                  <svg class="inline-block w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+                  </svg>
+                </button>
+                <div
+                  x-show="tooltip"
+                  x-transition:enter="transition ease-out duration-200"
+                  x-transition:enter-start="opacity-0 transform scale-95"
+                  x-transition:enter-end="opacity-100 transform scale-100"
+                  x-transition:leave="transition ease-in duration-150"
+                  x-transition:leave-start="opacity-100 transform scale-100"
+                  x-transition:leave-end="opacity-0 transform scale-95"
+                  @click.away="tooltip = false"
+                  class="absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap"
+                  x-cloak
+                >
+                  Core contributor
+                  <div class="absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700"></div>
+                </div>
+              </span>
           
           <span class="mr-1">,</span>
           <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
@@ -1106,6 +1224,47 @@
 
 
       
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+        
+        
+        
+      
+      
+      
+      
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 415px;">
+          <div style="position: relative">
+            <img srcset="/publications/preprint/omnisonar/featured_hu_f6722a206eb2a416.webp 320w, /publications/preprint/omnisonar/featured_hu_8179165c61e741c0.webp 480w, /publications/preprint/omnisonar/featured_hu_f8f8f1ff66d75b3.webp 640w, /publications/preprint/omnisonar/featured_hu_8e389bb98a44a4da.webp 720w, /publications/preprint/omnisonar/featured_hu_a9fb5f92c1038d6f.webp 720w"
+                 sizes="(max-width: 480px) 100vw, (max-width: 640px) 90vw, (max-width: 720px) 80vw, 720px"
+                 src="/publications/preprint/omnisonar/featured_hu_f6722a206eb2a416.webp" 
+                 width="720" 
+                 height="415" 
+                 alt="" 
+                 class="featured-image"
+                 fetchpriority="high">
+            
+          </div>
+        </div>
       
       
 
